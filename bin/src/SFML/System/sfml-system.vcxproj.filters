@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Git Projects\biosim\vendor\SFML\src\SFML\System\Clock.cpp" />
+    <ClCompile Include="D:\Git Projects\biosim\vendor\SFML\src\SFML\System\Err.cpp" />
+    <ClCompile Include="D:\Git Projects\biosim\vendor\SFML\src\SFML\System\Sleep.cpp" />
+    <ClCompile Include="D:\Git Projects\biosim\vendor\SFML\src\SFML\System\String.cpp" />
+    <ClCompile Include="D:\Git Projects\biosim\vendor\SFML\src\SFML\System\FileInputStream.cpp" />
+    <ClCompile Include="D:\Git Projects\biosim\vendor\SFML\src\SFML\System\MemoryInputStream.cpp" />
+    <ClCompile Include="D:\Git Projects\biosim\vendor\SFML\src\SFML\System\Win32\SleepImpl.cpp">
+      <Filter>windows</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Angle.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Angle.inl" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Clock.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Err.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Export.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\InputStream.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\NativeActivity.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Sleep.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\String.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\String.inl" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Time.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Time.inl" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Utf.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Utf.inl" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Vector2.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Vector2.inl" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Vector3.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\Vector3.inl" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\FileInputStream.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\MemoryInputStream.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\include\SFML\System\SuspendAwareClock.hpp" />
+    <ClInclude Include="D:\Git Projects\biosim\vendor\SFML\src\SFML\System\Win32\SleepImpl.hpp">
+      <Filter>windows</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Git Projects\biosim\vendor\SFML\src\SFML\System\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="windows">
+      <UniqueIdentifier>{B96D0BE4-C9A2-3D52-8F96-E6694C8084DE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
